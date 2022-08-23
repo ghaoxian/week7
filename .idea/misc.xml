@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/AndroidTrivia-Starter/app/src/main/res/layout/fragment_title.xml" value="0.1" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/week7/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/week7/app/src/main/res/layout/fragment_game_won.xml" value="0.15462962962962962" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/week7/app/src/main/res/menu/navdrawer_menu.xml" value="0.25" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/week7/app/src/main/res/menu/options_menu.xml" value="0.33" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/week7/app/src/main/res/menu/winner_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
